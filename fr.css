@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400;700&family=Poppins:wght@400;700&family=Tinos:wght@700&display=swap');
+
+body{
+    background-image: url('11.jpg');
+    background-size:cover;
+}
+h1{
+    text-align: center;
+    color:rgb(77, 44, 2);
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+}
+h4{
+    text-align: center;
+    color:rgba(131, 86, 3, 0.623);
+    font-size:20px;
+    font-family: 'poppins';
+}
