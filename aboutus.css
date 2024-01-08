@@ -101,3 +101,44 @@ body{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     background-image:url(12.png.jpg);
 }
+.footer {
+  position: absolute;
+  top:125vw;
+  left:0;
+  width:96.5vw;
+  background-color: #061f44;
+  color: rgb(213, 182, 26);
+  text-align: center;
+  padding: 20px;
+  font-family: 'Poppins';
+
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin-right: 15px;
+}
+
+a {
+  color:rgb(213, 182, 26);
+  text-decoration: none;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.social-icon {
+  font-size: 20px;
+  margin: 0 10px;
+  color: rgb(213, 182, 26);
+  text-decoration: none;
+}
+
